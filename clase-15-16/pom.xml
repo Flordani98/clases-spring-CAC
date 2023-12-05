@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cac</groupId>
-    <artifactId>clase-01</artifactId>
+    <artifactId>clase-15-16</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>clase-01</name>
-    <description>clase-01</description>
+    <name>clase-15-16</name>
+    <description>clase-15-16</description>
     <properties>
         <java.version>17</java.version>
     </properties>

@@ -1,4 +1,4 @@
-#Clase 01
+#Clase 15
 
 Java Spring Framework (Spring Framework) es una popular estructura empresarial de código abierto para crear aplicaciones independientes de nivel de producción que se ejecutan en la máquina virtual Java (JVM).
 
@@ -14,7 +14,7 @@ Estas características funcionan juntas para brindarle una herramienta que le pe
 
 NOTA: En esta clase vimos como crear y ejecutar un proyecto en spring, utilizando spring initializer(springboot). 
 
-#Clase 02
+#Clase 16
 ## API REST & Postman
 
 ##Introducción
